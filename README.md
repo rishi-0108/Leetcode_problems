@@ -107,4 +107,12 @@ It is a **record of the learning process** — including the problems I solve, t
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/rishi-0108/Leetcode_problems/tree/master/1510-stone-game-iv) |
+## Array
+|  |
+| ------- |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/rishi-0108/Leetcode_problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/rishi-0108/Leetcode_problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->
