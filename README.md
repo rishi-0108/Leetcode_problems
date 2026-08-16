@@ -83,6 +83,7 @@ It is a **record of the learning process** — including the problems I solve, t
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/rishi-0108/Leetcode_problems/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/rishi-0108/Leetcode_problems/tree/master/2029-stone-game-ix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -91,14 +92,17 @@ It is a **record of the learning process** — including the problems I solve, t
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/rishi-0108/Leetcode_problems/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/rishi-0108/Leetcode_problems/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/rishi-0108/Leetcode_problems/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/rishi-0108/Leetcode_problems/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/rishi-0108/Leetcode_problems/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/rishi-0108/Leetcode_problems/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
@@ -107,12 +111,22 @@ It is a **record of the learning process** — including the problems I solve, t
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/rishi-0108/Leetcode_problems/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/rishi-0108/Leetcode_problems/tree/master/2029-stone-game-ix) |
 ## Array
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/rishi-0108/Leetcode_problems/tree/master/2029-stone-game-ix) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/rishi-0108/Leetcode_problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/rishi-0108/Leetcode_problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Greedy
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/rishi-0108/Leetcode_problems/tree/master/2029-stone-game-ix) |
+## Counting
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/rishi-0108/Leetcode_problems/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
