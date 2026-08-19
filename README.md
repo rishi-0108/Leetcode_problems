@@ -119,6 +119,7 @@ It is a **record of the learning process** — including the problems I solve, t
 ## Array
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/rishi-0108/Leetcode_problems/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/rishi-0108/Leetcode_problems/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/rishi-0108/Leetcode_problems/tree/master/2029-stone-game-ix) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rishi-0108/Leetcode_problems/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -126,10 +127,12 @@ It is a **record of the learning process** — including the problems I solve, t
 ## Bit Manipulation
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/rishi-0108/Leetcode_problems/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/rishi-0108/Leetcode_problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Greedy
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/rishi-0108/Leetcode_problems/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/rishi-0108/Leetcode_problems/tree/master/2029-stone-game-ix) |
 ## Counting
 |  |
@@ -138,5 +141,6 @@ It is a **record of the learning process** — including the problems I solve, t
 ## Hash Table
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/rishi-0108/Leetcode_problems/tree/master/1386-cinema-seat-allocation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rishi-0108/Leetcode_problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 <!---LeetCode Topics End-->
