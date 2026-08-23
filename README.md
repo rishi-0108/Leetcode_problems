@@ -85,6 +85,7 @@ It is a **record of the learning process** — including the problems I solve, t
 | [0009-palindrome-number](https://github.com/rishi-0108/Leetcode_problems/tree/master/0009-palindrome-number) |
 | [1510-stone-game-iv](https://github.com/rishi-0108/Leetcode_problems/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/rishi-0108/Leetcode_problems/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/rishi-0108/Leetcode_problems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/rishi-0108/Leetcode_problems/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rishi-0108/Leetcode_problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/rishi-0108/Leetcode_problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -103,6 +104,7 @@ It is a **record of the learning process** — including the problems I solve, t
 | ------- |
 | [1510-stone-game-iv](https://github.com/rishi-0108/Leetcode_problems/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/rishi-0108/Leetcode_problems/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/rishi-0108/Leetcode_problems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/rishi-0108/Leetcode_problems/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
@@ -138,6 +140,7 @@ It is a **record of the learning process** — including the problems I solve, t
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/rishi-0108/Leetcode_problems/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/rishi-0108/Leetcode_problems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/rishi-0108/Leetcode_problems/tree/master/2029-stone-game-ix) |
 ## Counting
 |  |
@@ -164,4 +167,8 @@ It is a **record of the learning process** — including the problems I solve, t
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rishi-0108/Leetcode_problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## String
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/rishi-0108/Leetcode_problems/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
