@@ -171,4 +171,8 @@ It is a **record of the learning process** — including the problems I solve, t
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/rishi-0108/Leetcode_problems/tree/master/1927-sum-game) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/rishi-0108/Leetcode_problems/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
