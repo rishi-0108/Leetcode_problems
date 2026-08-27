@@ -150,16 +150,19 @@ It is a **record of the learning process** — including the problems I solve, t
 | [1386-cinema-seat-allocation](https://github.com/rishi-0108/Leetcode_problems/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/rishi-0108/Leetcode_problems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/rishi-0108/Leetcode_problems/tree/master/2029-stone-game-ix) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/rishi-0108/Leetcode_problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Counting
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/rishi-0108/Leetcode_problems/tree/master/2029-stone-game-ix) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/rishi-0108/Leetcode_problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Hash Table
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/rishi-0108/Leetcode_problems/tree/master/1386-cinema-seat-allocation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rishi-0108/Leetcode_problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rishi-0108/Leetcode_problems/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/rishi-0108/Leetcode_problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Simulation
 |  |
 | ------- |
@@ -181,6 +184,7 @@ It is a **record of the learning process** — including the problems I solve, t
 | ------- |
 | [1927-sum-game](https://github.com/rishi-0108/Leetcode_problems/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rishi-0108/Leetcode_problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/rishi-0108/Leetcode_problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Linked List
 |  |
 | ------- |
@@ -198,4 +202,8 @@ It is a **record of the learning process** — including the problems I solve, t
 |  |
 | ------- |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rishi-0108/Leetcode_problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+## Enumeration
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/rishi-0108/Leetcode_problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
