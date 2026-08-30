@@ -11,6 +11,10 @@
 class Solution {
 public:
     ListNode* reverseList(ListNode* head) {
+        /*
+
+        brute force : tc - o(n) , sc - o(n)
+
         stack<int> st;
         ListNode* temp=head;
         while(temp != nullptr){
@@ -24,5 +28,19 @@ public:
             temp=temp->next;
         }
         return head;
+
+        */
+
+        // optimal , sc - o(1) , changing the links
+
+        ListNode* prev=nullptr;
+        ListNode* curr=head;
+        while(curr != nullptr){
+            ListNode* next=curr->next;
+            curr->next=prev;
+            prev=curr;
+            curr=next;
+        }
+        return prev;
     }
 };
