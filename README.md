@@ -138,6 +138,7 @@ It is a **record of the learning process** — including the problems I solve, t
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rishi-0108/Leetcode_problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rishi-0108/Leetcode_problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rishi-0108/Leetcode_problems/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/rishi-0108/Leetcode_problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/rishi-0108/Leetcode_problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rishi-0108/Leetcode_problems/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Bit Manipulation
@@ -145,6 +146,7 @@ It is a **record of the learning process** — including the problems I solve, t
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/rishi-0108/Leetcode_problems/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rishi-0108/Leetcode_problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/rishi-0108/Leetcode_problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/rishi-0108/Leetcode_problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Greedy
 |  |
@@ -164,6 +166,7 @@ It is a **record of the learning process** — including the problems I solve, t
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/rishi-0108/Leetcode_problems/tree/master/1386-cinema-seat-allocation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rishi-0108/Leetcode_problems/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/rishi-0108/Leetcode_problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rishi-0108/Leetcode_problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/rishi-0108/Leetcode_problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Simulation
@@ -237,4 +240,12 @@ It is a **record of the learning process** — including the problems I solve, t
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/rishi-0108/Leetcode_problems/tree/master/0234-palindrome-linked-list) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/rishi-0108/Leetcode_problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Matrix
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/rishi-0108/Leetcode_problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
