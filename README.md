@@ -169,6 +169,7 @@ It is a **record of the learning process** — including the problems I solve, t
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/rishi-0108/Leetcode_problems/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/rishi-0108/Leetcode_problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [1386-cinema-seat-allocation](https://github.com/rishi-0108/Leetcode_problems/tree/master/1386-cinema-seat-allocation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rishi-0108/Leetcode_problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/rishi-0108/Leetcode_problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -203,6 +204,7 @@ It is a **record of the learning process** — including the problems I solve, t
 | [0002-add-two-numbers](https://github.com/rishi-0108/Leetcode_problems/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rishi-0108/Leetcode_problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/rishi-0108/Leetcode_problems/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/rishi-0108/Leetcode_problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/rishi-0108/Leetcode_problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/rishi-0108/Leetcode_problems/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/rishi-0108/Leetcode_problems/tree/master/0237-delete-node-in-a-linked-list) |
@@ -233,6 +235,7 @@ It is a **record of the learning process** — including the problems I solve, t
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rishi-0108/Leetcode_problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/rishi-0108/Leetcode_problems/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/rishi-0108/Leetcode_problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/rishi-0108/Leetcode_problems/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/rishi-0108/Leetcode_problems/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rishi-0108/Leetcode_problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
