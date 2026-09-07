@@ -97,6 +97,7 @@ It is a **record of the learning process** — including the problems I solve, t
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/rishi-0108/Leetcode_problems/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/rishi-0108/Leetcode_problems/tree/master/0940-distinct-subsequences-ii) |
 | [1510-stone-game-iv](https://github.com/rishi-0108/Leetcode_problems/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/rishi-0108/Leetcode_problems/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/rishi-0108/Leetcode_problems/tree/master/1872-stone-game-viii) |
@@ -198,6 +199,7 @@ It is a **record of the learning process** — including the problems I solve, t
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/rishi-0108/Leetcode_problems/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/rishi-0108/Leetcode_problems/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/rishi-0108/Leetcode_problems/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rishi-0108/Leetcode_problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/rishi-0108/Leetcode_problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
