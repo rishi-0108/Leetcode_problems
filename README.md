@@ -215,6 +215,7 @@ It is a **record of the learning process** — including the problems I solve, t
 | ------- |
 | [0002-add-two-numbers](https://github.com/rishi-0108/Leetcode_problems/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rishi-0108/Leetcode_problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/rishi-0108/Leetcode_problems/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/rishi-0108/Leetcode_problems/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/rishi-0108/Leetcode_problems/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rishi-0108/Leetcode_problems/tree/master/0160-intersection-of-two-linked-lists) |
@@ -250,6 +251,7 @@ It is a **record of the learning process** — including the problems I solve, t
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rishi-0108/Leetcode_problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/rishi-0108/Leetcode_problems/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/rishi-0108/Leetcode_problems/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/rishi-0108/Leetcode_problems/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rishi-0108/Leetcode_problems/tree/master/0160-intersection-of-two-linked-lists) |
