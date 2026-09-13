@@ -136,6 +136,7 @@ It is a **record of the learning process** — including the problems I solve, t
 ## Array
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/rishi-0108/Leetcode_problems/tree/master/0835-image-overlap) |
 | [1386-cinema-seat-allocation](https://github.com/rishi-0108/Leetcode_problems/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/rishi-0108/Leetcode_problems/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/rishi-0108/Leetcode_problems/tree/master/1872-stone-game-viii) |
@@ -277,6 +278,7 @@ It is a **record of the learning process** — including the problems I solve, t
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/rishi-0108/Leetcode_problems/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/rishi-0108/Leetcode_problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Floyd's Cycle Finding Algorithm
 |  |
