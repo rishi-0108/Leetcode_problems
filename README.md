@@ -84,6 +84,7 @@ It is a **record of the learning process** — including the problems I solve, t
 | ------- |
 | [0002-add-two-numbers](https://github.com/rishi-0108/Leetcode_problems/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/rishi-0108/Leetcode_problems/tree/master/0009-palindrome-number) |
+| [0836-rectangle-overlap](https://github.com/rishi-0108/Leetcode_problems/tree/master/0836-rectangle-overlap) |
 | [1510-stone-game-iv](https://github.com/rishi-0108/Leetcode_problems/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/rishi-0108/Leetcode_problems/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/rishi-0108/Leetcode_problems/tree/master/1872-stone-game-viii) |
@@ -294,4 +295,8 @@ It is a **record of the learning process** — including the problems I solve, t
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/rishi-0108/Leetcode_problems/tree/master/0148-sort-list) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/rishi-0108/Leetcode_problems/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
