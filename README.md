@@ -85,6 +85,7 @@ It is a **record of the learning process** — including the problems I solve, t
 | [0002-add-two-numbers](https://github.com/rishi-0108/Leetcode_problems/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/rishi-0108/Leetcode_problems/tree/master/0009-palindrome-number) |
 | [0836-rectangle-overlap](https://github.com/rishi-0108/Leetcode_problems/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/rishi-0108/Leetcode_problems/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/rishi-0108/Leetcode_problems/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/rishi-0108/Leetcode_problems/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rishi-0108/Leetcode_problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -316,4 +317,5 @@ It is a **record of the learning process** — including the problems I solve, t
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/rishi-0108/Leetcode_problems/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/rishi-0108/Leetcode_problems/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
