@@ -232,6 +232,7 @@ It is a **record of the learning process** — including the problems I solve, t
 | [0940-distinct-subsequences-ii](https://github.com/rishi-0108/Leetcode_problems/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/rishi-0108/Leetcode_problems/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/rishi-0108/Leetcode_problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rishi-0108/Leetcode_problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rishi-0108/Leetcode_problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/rishi-0108/Leetcode_problems/tree/master/1927-sum-game) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rishi-0108/Leetcode_problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -310,6 +311,7 @@ It is a **record of the learning process** — including the problems I solve, t
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/rishi-0108/Leetcode_problems/tree/master/0234-palindrome-linked-list) |
 | [1096-brace-expansion-ii](https://github.com/rishi-0108/Leetcode_problems/tree/master/1096-brace-expansion-ii) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rishi-0108/Leetcode_problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -345,4 +347,8 @@ It is a **record of the learning process** — including the problems I solve, t
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/rishi-0108/Leetcode_problems/tree/master/1096-brace-expansion-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rishi-0108/Leetcode_problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
