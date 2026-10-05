@@ -252,6 +252,7 @@ It is a **record of the learning process** — including the problems I solve, t
 | ------- |
 | [0002-add-two-numbers](https://github.com/rishi-0108/Leetcode_problems/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rishi-0108/Leetcode_problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/rishi-0108/Leetcode_problems/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/rishi-0108/Leetcode_problems/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/rishi-0108/Leetcode_problems/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/rishi-0108/Leetcode_problems/tree/master/0148-sort-list) |
@@ -275,6 +276,7 @@ It is a **record of the learning process** — including the problems I solve, t
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rishi-0108/Leetcode_problems/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/rishi-0108/Leetcode_problems/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/rishi-0108/Leetcode_problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/rishi-0108/Leetcode_problems/tree/master/0234-palindrome-linked-list) |
 ## Sliding Window
