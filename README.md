@@ -180,6 +180,7 @@ It is a **record of the learning process** — including the problems I solve, t
 ## Greedy
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/rishi-0108/Leetcode_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/rishi-0108/Leetcode_problems/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/rishi-0108/Leetcode_problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/rishi-0108/Leetcode_problems/tree/master/1927-sum-game) |
@@ -235,6 +236,7 @@ It is a **record of the learning process** — including the problems I solve, t
 | [0022-generate-parentheses](https://github.com/rishi-0108/Leetcode_problems/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/rishi-0108/Leetcode_problems/tree/master/0115-distinct-subsequences) |
 | [0856-score-of-parentheses](https://github.com/rishi-0108/Leetcode_problems/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/rishi-0108/Leetcode_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/rishi-0108/Leetcode_problems/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/rishi-0108/Leetcode_problems/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rishi-0108/Leetcode_problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -321,6 +323,7 @@ It is a **record of the learning process** — including the problems I solve, t
 | [0020-valid-parentheses](https://github.com/rishi-0108/Leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/rishi-0108/Leetcode_problems/tree/master/0234-palindrome-linked-list) |
 | [0856-score-of-parentheses](https://github.com/rishi-0108/Leetcode_problems/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/rishi-0108/Leetcode_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1096-brace-expansion-ii](https://github.com/rishi-0108/Leetcode_problems/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rishi-0108/Leetcode_problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rishi-0108/Leetcode_problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -367,6 +370,7 @@ It is a **record of the learning process** — including the problems I solve, t
 | [0020-valid-parentheses](https://github.com/rishi-0108/Leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/rishi-0108/Leetcode_problems/tree/master/0022-generate-parentheses) |
 | [0856-score-of-parentheses](https://github.com/rishi-0108/Leetcode_problems/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/rishi-0108/Leetcode_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rishi-0108/Leetcode_problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rishi-0108/Leetcode_problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rishi-0108/Leetcode_problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
