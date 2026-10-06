@@ -83,6 +83,7 @@ It is a **record of the learning process** — including the problems I solve, t
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rishi-0108/Leetcode_problems/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/rishi-0108/Leetcode_problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/rishi-0108/Leetcode_problems/tree/master/0009-palindrome-number) |
 | [0836-rectangle-overlap](https://github.com/rishi-0108/Leetcode_problems/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/rishi-0108/Leetcode_problems/tree/master/1401-circle-and-rectangle-overlapping) |
