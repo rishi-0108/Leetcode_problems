@@ -240,6 +240,7 @@ It is a **record of the learning process** — including the problems I solve, t
 | [0020-valid-parentheses](https://github.com/rishi-0108/Leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/rishi-0108/Leetcode_problems/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/rishi-0108/Leetcode_problems/tree/master/0115-distinct-subsequences) |
+| [0344-reverse-string](https://github.com/rishi-0108/Leetcode_problems/tree/master/0344-reverse-string) |
 | [0856-score-of-parentheses](https://github.com/rishi-0108/Leetcode_problems/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rishi-0108/Leetcode_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/rishi-0108/Leetcode_problems/tree/master/0940-distinct-subsequences-ii) |
@@ -308,6 +309,7 @@ It is a **record of the learning process** — including the problems I solve, t
 | [0148-sort-list](https://github.com/rishi-0108/Leetcode_problems/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rishi-0108/Leetcode_problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/rishi-0108/Leetcode_problems/tree/master/0234-palindrome-linked-list) |
+| [0344-reverse-string](https://github.com/rishi-0108/Leetcode_problems/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/rishi-0108/Leetcode_problems/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rishi-0108/Leetcode_problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rishi-0108/Leetcode_problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
