@@ -240,6 +240,7 @@ It is a **record of the learning process** — including the problems I solve, t
 | [0020-valid-parentheses](https://github.com/rishi-0108/Leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/rishi-0108/Leetcode_problems/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/rishi-0108/Leetcode_problems/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/rishi-0108/Leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/rishi-0108/Leetcode_problems/tree/master/0344-reverse-string) |
 | [0856-score-of-parentheses](https://github.com/rishi-0108/Leetcode_problems/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rishi-0108/Leetcode_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -305,6 +306,7 @@ It is a **record of the learning process** — including the problems I solve, t
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rishi-0108/Leetcode_problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/rishi-0108/Leetcode_problems/tree/master/0061-rotate-list) |
+| [0125-valid-palindrome](https://github.com/rishi-0108/Leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/rishi-0108/Leetcode_problems/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/rishi-0108/Leetcode_problems/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rishi-0108/Leetcode_problems/tree/master/0160-intersection-of-two-linked-lists) |
