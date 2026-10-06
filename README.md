@@ -154,6 +154,7 @@ It is a **record of the learning process** — including the problems I solve, t
 | [1563-stone-game-v](https://github.com/rishi-0108/Leetcode_problems/tree/master/1563-stone-game-v) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rishi-0108/Leetcode_problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rishi-0108/Leetcode_problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/rishi-0108/Leetcode_problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1872-stone-game-viii](https://github.com/rishi-0108/Leetcode_problems/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/rishi-0108/Leetcode_problems/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rishi-0108/Leetcode_problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -185,6 +186,7 @@ It is a **record of the learning process** — including the problems I solve, t
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rishi-0108/Leetcode_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/rishi-0108/Leetcode_problems/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/rishi-0108/Leetcode_problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/rishi-0108/Leetcode_problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1927-sum-game](https://github.com/rishi-0108/Leetcode_problems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/rishi-0108/Leetcode_problems/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rishi-0108/Leetcode_problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -220,6 +222,7 @@ It is a **record of the learning process** — including the problems I solve, t
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rishi-0108/Leetcode_problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rishi-0108/Leetcode_problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/rishi-0108/Leetcode_problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rishi-0108/Leetcode_problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rishi-0108/Leetcode_problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Combinatorics
@@ -273,6 +276,7 @@ It is a **record of the learning process** — including the problems I solve, t
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rishi-0108/Leetcode_problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rishi-0108/Leetcode_problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/rishi-0108/Leetcode_problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1872-stone-game-viii](https://github.com/rishi-0108/Leetcode_problems/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/rishi-0108/Leetcode_problems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/rishi-0108/Leetcode_problems/tree/master/3904-smallest-stable-index-ii) |
@@ -288,6 +292,7 @@ It is a **record of the learning process** — including the problems I solve, t
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rishi-0108/Leetcode_problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rishi-0108/Leetcode_problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/rishi-0108/Leetcode_problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rishi-0108/Leetcode_problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Enumeration
 |  |
@@ -317,6 +322,7 @@ It is a **record of the learning process** — including the problems I solve, t
 | [0148-sort-list](https://github.com/rishi-0108/Leetcode_problems/tree/master/0148-sort-list) |
 | [1096-brace-expansion-ii](https://github.com/rishi-0108/Leetcode_problems/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/rishi-0108/Leetcode_problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/rishi-0108/Leetcode_problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rishi-0108/Leetcode_problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rishi-0108/Leetcode_problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Stack
