@@ -264,6 +264,7 @@ It is a **record of the learning process** — including the problems I solve, t
 | [0002-add-two-numbers](https://github.com/rishi-0108/Leetcode_problems/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rishi-0108/Leetcode_problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/rishi-0108/Leetcode_problems/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/rishi-0108/Leetcode_problems/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/rishi-0108/Leetcode_problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/rishi-0108/Leetcode_problems/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/rishi-0108/Leetcode_problems/tree/master/0142-linked-list-cycle-ii) |
@@ -363,10 +364,12 @@ It is a **record of the learning process** — including the problems I solve, t
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/rishi-0108/Leetcode_problems/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/rishi-0108/Leetcode_problems/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/rishi-0108/Leetcode_problems/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/rishi-0108/Leetcode_problems/tree/master/0148-sort-list) |
 ## Geometry
 |  |
@@ -394,4 +397,12 @@ It is a **record of the learning process** — including the problems I solve, t
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rishi-0108/Leetcode_problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rishi-0108/Leetcode_problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rishi-0108/Leetcode_problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/rishi-0108/Leetcode_problems/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/rishi-0108/Leetcode_problems/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
