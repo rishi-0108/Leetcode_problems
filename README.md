@@ -162,6 +162,7 @@ It is a **record of the learning process** — including the problems I solve, t
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rishi-0108/Leetcode_problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/rishi-0108/Leetcode_problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/rishi-0108/Leetcode_problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/rishi-0108/Leetcode_problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rishi-0108/Leetcode_problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rishi-0108/Leetcode_problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rishi-0108/Leetcode_problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -219,6 +220,7 @@ It is a **record of the learning process** — including the problems I solve, t
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rishi-0108/Leetcode_problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rishi-0108/Leetcode_problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/rishi-0108/Leetcode_problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/rishi-0108/Leetcode_problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rishi-0108/Leetcode_problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/rishi-0108/Leetcode_problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rishi-0108/Leetcode_problems/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -395,6 +397,7 @@ It is a **record of the learning process** — including the problems I solve, t
 ## Segment Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/rishi-0108/Leetcode_problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/rishi-0108/Leetcode_problems/tree/master/3525-find-x-value-of-array-ii) |
 ## Backtracking
 |  |
@@ -423,4 +426,8 @@ It is a **record of the learning process** — including the problems I solve, t
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rishi-0108/Leetcode_problems/tree/master/0023-merge-k-sorted-lists) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/rishi-0108/Leetcode_problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
