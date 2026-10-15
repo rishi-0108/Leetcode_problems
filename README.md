@@ -211,6 +211,7 @@ It is a **record of the learning process** — including the problems I solve, t
 ## Hash Table
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/rishi-0108/Leetcode_problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/rishi-0108/Leetcode_problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rishi-0108/Leetcode_problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [1096-brace-expansion-ii](https://github.com/rishi-0108/Leetcode_problems/tree/master/1096-brace-expansion-ii) |
@@ -282,6 +283,7 @@ It is a **record of the learning process** — including the problems I solve, t
 | [0023-merge-k-sorted-lists](https://github.com/rishi-0108/Leetcode_problems/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/rishi-0108/Leetcode_problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/rishi-0108/Leetcode_problems/tree/master/0061-rotate-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/rishi-0108/Leetcode_problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/rishi-0108/Leetcode_problems/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/rishi-0108/Leetcode_problems/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rishi-0108/Leetcode_problems/tree/master/0160-intersection-of-two-linked-lists) |
