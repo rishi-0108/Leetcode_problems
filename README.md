@@ -104,6 +104,7 @@ It is a **record of the learning process** — including the problems I solve, t
 | [3871-count-commas-in-range-ii](https://github.com/rishi-0108/Leetcode_problems/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rishi-0108/Leetcode_problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/rishi-0108/Leetcode_problems/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/rishi-0108/Leetcode_problems/tree/master/3886-sum-of-sortable-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -180,6 +181,7 @@ It is a **record of the learning process** — including the problems I solve, t
 | [3727-maximum-alternating-sum-of-squares](https://github.com/rishi-0108/Leetcode_problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rishi-0108/Leetcode_problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/rishi-0108/Leetcode_problems/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/rishi-0108/Leetcode_problems/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/rishi-0108/Leetcode_problems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/rishi-0108/Leetcode_problems/tree/master/3904-smallest-stable-index-ii) |
 ## Bit Manipulation
@@ -331,6 +333,7 @@ It is a **record of the learning process** — including the problems I solve, t
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/rishi-0108/Leetcode_problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/rishi-0108/Leetcode_problems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3886-sum-of-sortable-integers](https://github.com/rishi-0108/Leetcode_problems/tree/master/3886-sum-of-sortable-integers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -363,6 +366,7 @@ It is a **record of the learning process** — including the problems I solve, t
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rishi-0108/Leetcode_problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/rishi-0108/Leetcode_problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/rishi-0108/Leetcode_problems/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/rishi-0108/Leetcode_problems/tree/master/3886-sum-of-sortable-integers) |
 ## Stack
 |  |
 | ------- |
