@@ -283,6 +283,7 @@ It is a **record of the learning process** — including the problems I solve, t
 | [3498-reverse-degree-of-a-string](https://github.com/rishi-0108/Leetcode_problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/rishi-0108/Leetcode_problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/rishi-0108/Leetcode_problems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/rishi-0108/Leetcode_problems/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Linked List
 |  |
 | ------- |
