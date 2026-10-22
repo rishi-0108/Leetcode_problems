@@ -184,6 +184,7 @@ It is a **record of the learning process** — including the problems I solve, t
 | [3886-sum-of-sortable-integers](https://github.com/rishi-0108/Leetcode_problems/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/rishi-0108/Leetcode_problems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/rishi-0108/Leetcode_problems/tree/master/3904-smallest-stable-index-ii) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/rishi-0108/Leetcode_problems/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Bit Manipulation
 |  |
 | ------- |
