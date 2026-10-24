@@ -95,6 +95,7 @@ It is a **record of the learning process** — including the problems I solve, t
 | [1872-stone-game-viii](https://github.com/rishi-0108/Leetcode_problems/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/rishi-0108/Leetcode_problems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/rishi-0108/Leetcode_problems/tree/master/2029-stone-game-ix) |
+| [2409-count-days-spent-together](https://github.com/rishi-0108/Leetcode_problems/tree/master/2409-count-days-spent-together) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rishi-0108/Leetcode_problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3525-find-x-value-of-array-ii](https://github.com/rishi-0108/Leetcode_problems/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/rishi-0108/Leetcode_problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -281,6 +282,7 @@ It is a **record of the learning process** — including the problems I solve, t
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rishi-0108/Leetcode_problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rishi-0108/Leetcode_problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/rishi-0108/Leetcode_problems/tree/master/1927-sum-game) |
+| [2409-count-days-spent-together](https://github.com/rishi-0108/Leetcode_problems/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rishi-0108/Leetcode_problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rishi-0108/Leetcode_problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/rishi-0108/Leetcode_problems/tree/master/3498-reverse-degree-of-a-string) |
