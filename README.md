@@ -183,6 +183,7 @@ It is a **record of the learning process** — including the problems I solve, t
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/rishi-0108/Leetcode_problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rishi-0108/Leetcode_problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/rishi-0108/Leetcode_problems/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/rishi-0108/Leetcode_problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rishi-0108/Leetcode_problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/rishi-0108/Leetcode_problems/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/rishi-0108/Leetcode_problems/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -199,6 +200,7 @@ It is a **record of the learning process** — including the problems I solve, t
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/rishi-0108/Leetcode_problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/rishi-0108/Leetcode_problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/rishi-0108/Leetcode_problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/rishi-0108/Leetcode_problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/rishi-0108/Leetcode_problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Greedy
 |  |
@@ -292,6 +294,7 @@ It is a **record of the learning process** — including the problems I solve, t
 | [3498-reverse-degree-of-a-string](https://github.com/rishi-0108/Leetcode_problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/rishi-0108/Leetcode_problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/rishi-0108/Leetcode_problems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/rishi-0108/Leetcode_problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/rishi-0108/Leetcode_problems/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Linked List
 |  |
@@ -414,6 +417,7 @@ It is a **record of the learning process** — including the problems I solve, t
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rishi-0108/Leetcode_problems/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/rishi-0108/Leetcode_problems/tree/master/0148-sort-list) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/rishi-0108/Leetcode_problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Merge Sort
 |  |
 | ------- |
@@ -430,6 +434,7 @@ It is a **record of the learning process** — including the problems I solve, t
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/rishi-0108/Leetcode_problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/rishi-0108/Leetcode_problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/rishi-0108/Leetcode_problems/tree/master/3525-find-x-value-of-array-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/rishi-0108/Leetcode_problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -462,8 +467,14 @@ It is a **record of the learning process** — including the problems I solve, t
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/rishi-0108/Leetcode_problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/rishi-0108/Leetcode_problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/rishi-0108/Leetcode_problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/rishi-0108/Leetcode_problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/rishi-0108/Leetcode_problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/rishi-0108/Leetcode_problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->
