@@ -86,6 +86,7 @@ It is a **record of the learning process** — including the problems I solve, t
 | [0007-reverse-integer](https://github.com/rishi-0108/Leetcode_problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/rishi-0108/Leetcode_problems/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/rishi-0108/Leetcode_problems/tree/master/0050-powx-n) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/rishi-0108/Leetcode_problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0507-perfect-number](https://github.com/rishi-0108/Leetcode_problems/tree/master/0507-perfect-number) |
 | [0836-rectangle-overlap](https://github.com/rishi-0108/Leetcode_problems/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/rishi-0108/Leetcode_problems/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -154,6 +155,7 @@ It is a **record of the learning process** — including the problems I solve, t
 ## Array
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/rishi-0108/Leetcode_problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0835-image-overlap](https://github.com/rishi-0108/Leetcode_problems/tree/master/0835-image-overlap) |
 | [1386-cinema-seat-allocation](https://github.com/rishi-0108/Leetcode_problems/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rishi-0108/Leetcode_problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
