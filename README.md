@@ -157,6 +157,7 @@ It is a **record of the learning process** — including the problems I solve, t
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/rishi-0108/Leetcode_problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0835-image-overlap](https://github.com/rishi-0108/Leetcode_problems/tree/master/0835-image-overlap) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/rishi-0108/Leetcode_problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/rishi-0108/Leetcode_problems/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rishi-0108/Leetcode_problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/rishi-0108/Leetcode_problems/tree/master/1563-stone-game-v) |
@@ -256,6 +257,7 @@ It is a **record of the learning process** — including the problems I solve, t
 ## Binary Search
 |  |
 | ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/rishi-0108/Leetcode_problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rishi-0108/Leetcode_problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rishi-0108/Leetcode_problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/rishi-0108/Leetcode_problems/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -364,6 +366,7 @@ It is a **record of the learning process** — including the problems I solve, t
 | [0234-palindrome-linked-list](https://github.com/rishi-0108/Leetcode_problems/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/rishi-0108/Leetcode_problems/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/rishi-0108/Leetcode_problems/tree/master/0876-middle-of-the-linked-list) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/rishi-0108/Leetcode_problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rishi-0108/Leetcode_problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rishi-0108/Leetcode_problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/rishi-0108/Leetcode_problems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -377,6 +380,7 @@ It is a **record of the learning process** — including the problems I solve, t
 | ------- |
 | [0148-sort-list](https://github.com/rishi-0108/Leetcode_problems/tree/master/0148-sort-list) |
 | [1096-brace-expansion-ii](https://github.com/rishi-0108/Leetcode_problems/tree/master/1096-brace-expansion-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/rishi-0108/Leetcode_problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/rishi-0108/Leetcode_problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/rishi-0108/Leetcode_problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rishi-0108/Leetcode_problems/tree/master/2089-find-target-indices-after-sorting-array) |
