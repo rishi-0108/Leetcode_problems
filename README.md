@@ -157,6 +157,7 @@ It is a **record of the learning process** — including the problems I solve, t
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/rishi-0108/Leetcode_problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0835-image-overlap](https://github.com/rishi-0108/Leetcode_problems/tree/master/0835-image-overlap) |
+| [1267-count-servers-that-communicate](https://github.com/rishi-0108/Leetcode_problems/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/rishi-0108/Leetcode_problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/rishi-0108/Leetcode_problems/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rishi-0108/Leetcode_problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -228,6 +229,7 @@ It is a **record of the learning process** — including the problems I solve, t
 ## Counting
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/rishi-0108/Leetcode_problems/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/rishi-0108/Leetcode_problems/tree/master/2029-stone-game-ix) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/rishi-0108/Leetcode_problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Hash Table
@@ -375,6 +377,7 @@ It is a **record of the learning process** — including the problems I solve, t
 ## Union-Find
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/rishi-0108/Leetcode_problems/tree/master/1267-count-servers-that-communicate) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rishi-0108/Leetcode_problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/rishi-0108/Leetcode_problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Sorting
@@ -409,12 +412,14 @@ It is a **record of the learning process** — including the problems I solve, t
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/rishi-0108/Leetcode_problems/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/rishi-0108/Leetcode_problems/tree/master/1096-brace-expansion-ii) |
+| [1267-count-servers-that-communicate](https://github.com/rishi-0108/Leetcode_problems/tree/master/1267-count-servers-that-communicate) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/rishi-0108/Leetcode_problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/rishi-0108/Leetcode_problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/rishi-0108/Leetcode_problems/tree/master/0835-image-overlap) |
+| [1267-count-servers-that-communicate](https://github.com/rishi-0108/Leetcode_problems/tree/master/1267-count-servers-that-communicate) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rishi-0108/Leetcode_problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/rishi-0108/Leetcode_problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/rishi-0108/Leetcode_problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -485,6 +490,7 @@ It is a **record of the learning process** — including the problems I solve, t
 ## Depth-First Search
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/rishi-0108/Leetcode_problems/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/rishi-0108/Leetcode_problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/rishi-0108/Leetcode_problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Tree
