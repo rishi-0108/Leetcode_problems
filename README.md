@@ -161,6 +161,7 @@ It is a **record of the learning process** — including the problems I solve, t
 | [1386-cinema-seat-allocation](https://github.com/rishi-0108/Leetcode_problems/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rishi-0108/Leetcode_problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/rishi-0108/Leetcode_problems/tree/master/1563-stone-game-v) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/rishi-0108/Leetcode_problems/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rishi-0108/Leetcode_problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rishi-0108/Leetcode_problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/rishi-0108/Leetcode_problems/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -252,6 +253,7 @@ It is a **record of the learning process** — including the problems I solve, t
 ## Simulation
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/rishi-0108/Leetcode_problems/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rishi-0108/Leetcode_problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/rishi-0108/Leetcode_problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Search
@@ -467,6 +469,7 @@ It is a **record of the learning process** — including the problems I solve, t
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rishi-0108/Leetcode_problems/tree/master/0023-merge-k-sorted-lists) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/rishi-0108/Leetcode_problems/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/rishi-0108/Leetcode_problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/rishi-0108/Leetcode_problems/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Tournament Sort
@@ -496,4 +499,8 @@ It is a **record of the learning process** — including the problems I solve, t
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/rishi-0108/Leetcode_problems/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Ordered Set
+|  |
+| ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/rishi-0108/Leetcode_problems/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 <!---LeetCode Topics End-->
