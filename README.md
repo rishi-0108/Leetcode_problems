@@ -188,6 +188,7 @@ It is a **record of the learning process** — including the problems I solve, t
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/rishi-0108/Leetcode_problems/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rishi-0108/Leetcode_problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rishi-0108/Leetcode_problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/rishi-0108/Leetcode_problems/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rishi-0108/Leetcode_problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rishi-0108/Leetcode_problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3525-find-x-value-of-array-ii](https://github.com/rishi-0108/Leetcode_problems/tree/master/3525-find-x-value-of-array-ii) |
@@ -259,6 +260,7 @@ It is a **record of the learning process** — including the problems I solve, t
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/rishi-0108/Leetcode_problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/rishi-0108/Leetcode_problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/rishi-0108/Leetcode_problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/rishi-0108/Leetcode_problems/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rishi-0108/Leetcode_problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/rishi-0108/Leetcode_problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/rishi-0108/Leetcode_problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -318,6 +320,7 @@ It is a **record of the learning process** — including the problems I solve, t
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rishi-0108/Leetcode_problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/rishi-0108/Leetcode_problems/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/rishi-0108/Leetcode_problems/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/rishi-0108/Leetcode_problems/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3498-reverse-degree-of-a-string](https://github.com/rishi-0108/Leetcode_problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/rishi-0108/Leetcode_problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/rishi-0108/Leetcode_problems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -513,11 +516,13 @@ It is a **record of the learning process** — including the problems I solve, t
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/rishi-0108/Leetcode_problems/tree/master/1267-count-servers-that-communicate) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/rishi-0108/Leetcode_problems/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/rishi-0108/Leetcode_problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/rishi-0108/Leetcode_problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Tree
 |  |
 | ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/rishi-0108/Leetcode_problems/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/rishi-0108/Leetcode_problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Graph Theory
 |  |
