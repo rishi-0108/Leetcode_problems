@@ -129,6 +129,7 @@ It is a **record of the learning process** — including the problems I solve, t
 | [3665-twisted-mirror-path-count](https://github.com/rishi-0108/Leetcode_problems/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/rishi-0108/Leetcode_problems/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/rishi-0108/Leetcode_problems/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/rishi-0108/Leetcode_problems/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Minimax
 |  |
 | ------- |
@@ -210,6 +211,7 @@ It is a **record of the learning process** — including the problems I solve, t
 | [3903-smallest-stable-index-i](https://github.com/rishi-0108/Leetcode_problems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/rishi-0108/Leetcode_problems/tree/master/3904-smallest-stable-index-ii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/rishi-0108/Leetcode_problems/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/rishi-0108/Leetcode_problems/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -239,6 +241,7 @@ It is a **record of the learning process** — including the problems I solve, t
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/rishi-0108/Leetcode_problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/rishi-0108/Leetcode_problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/rishi-0108/Leetcode_problems/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/rishi-0108/Leetcode_problems/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Counting
 |  |
 | ------- |
